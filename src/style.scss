@@ -1,0 +1,24 @@
+$material-design-icons-font-directory-path: "material-design-icons-iconfont/dist/fonts/";
+
+@import "material-design-icons-iconfont/src/material-design-icons";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: #ececec;
+  font-family: "Fira Code", sans-serif;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
